@@ -1,4 +1,4 @@
-# Getting Started with Create React App (Lesson 4 of Net Ninja Tutorial: Dynamic Values in Templates)
+# Getting Started with Create React App (Lesson 5 of Net Ninja Tutorial: Multiple Components)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
