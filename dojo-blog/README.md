@@ -1,4 +1,4 @@
-# Getting Started with Create React App (Lesson 5 of Net Ninja Tutorial: Multiple Components)
+# Getting Started with Create React App (Lesson 6 of Net Ninja Tutorial: Adding Styles)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
